@@ -5,4 +5,4 @@
 3. Place this folder in the same folder as the .ipynb file.
 4. The ipynb file will run with Python version 3.7.4
 
-The project can be also be viewed on Kaggle 
+The project can be also be viewed on Kaggle < https://www.kaggle.com/varsha6319/activity-recognition >
